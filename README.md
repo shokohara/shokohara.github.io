@@ -43,8 +43,10 @@
 - Apple
 - tmux
 - vim
+- neovim
+- Travis, Circle CI
 - IntelliJ
-- [https://github.com/typelevel/cats](typelevel/cats)
+- typelevel/cats
 
 ### Here is my dotfiles
 https://github.com/shokohara/dotfiles
