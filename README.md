@@ -44,6 +44,7 @@
 - tmux
 - vim
 - IntelliJ
+- [https://github.com/typelevel/cats](typelevel/cats)
 
 ### Here is my dotfiles
 https://github.com/shokohara/dotfiles
