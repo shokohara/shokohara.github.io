@@ -47,6 +47,7 @@
 - Travis, Circle CI
 - IntelliJ
 - typelevel/cats
+- Coq
 
 ### Here is my dotfiles
 https://github.com/shokohara/dotfiles
