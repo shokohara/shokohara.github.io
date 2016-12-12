@@ -14,6 +14,7 @@
 ## What framework can you use?
 - Play Framework
 - scalikejdbc
+- Slick
 - node.js
 - Angular.js 1/2
 - Android
