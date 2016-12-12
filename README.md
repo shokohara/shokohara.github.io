@@ -28,27 +28,34 @@
 - sqlite
 - redis
 
+## What are stuff you can use?
+- AWS
+- Packer
+- Terraform
+- Vagrant
+- Docker
+- heroku
+- Ubuntu
+- English
+- terminal
+- tmux
+- vim
+- IntelliJ
+- scalaz
+
 ## What's your favorite things?
 - making PC
 - functional programming
-- scalaz
-- AWS
-- heroku
-- Ubuntu
 - CI, CD, automation
 - chatops
 - Slack
-- terminal
 - Talking, reading and writing English
 - socket.io
 - GRPC
 - shell
 - Apple
-- tmux
-- vim
 - neovim
 - Travis, Circle CI
-- IntelliJ
 - typelevel/cats
 - Coq
 - Kotlin on Android
