@@ -27,6 +27,7 @@
 
 ## What's your favorite things?
 - making PC
+- functional programming
 - scalaz
 - AWS
 - heroku
@@ -35,7 +36,6 @@
 - chatops
 - Slack
 - terminal
-- Artistic codes
 - Talking, reading and writing English
 - socket.io
 - GRPC
