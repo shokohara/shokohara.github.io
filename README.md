@@ -18,6 +18,7 @@
 - Android
 - OpenGL
 - Servant
+- WebSocket
 
 ## What middleware can you use?
 - MySQL
