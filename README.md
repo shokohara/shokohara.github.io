@@ -3,6 +3,7 @@
 ## What language can you use?
 - Scala
 - Java
+- HTML CSS SASS SCSS LESS
 - JavaScript
 - TypeScript
 - CoffeeScript
