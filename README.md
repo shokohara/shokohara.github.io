@@ -50,6 +50,9 @@
 - IntelliJ
 - typelevel/cats
 - Coq
+- Kotlin on Android
+- Scala on Android
+- Haskell on Android
 
 ### Here is my dotfiles
 https://github.com/shokohara/dotfiles
