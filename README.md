@@ -45,6 +45,7 @@
 
 ## What's your favorite things?
 - making PC
+- Raspberry Pi
 - functional programming
 - CI, CD, automation
 - chatops
