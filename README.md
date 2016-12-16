@@ -44,6 +44,7 @@
 - scalaz
 
 ## What's your favorite things?
+- HHKB
 - making PC
 - Raspberry Pi
 - functional programming
