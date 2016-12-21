@@ -3,10 +3,9 @@
 ## What language can you use?
 - Scala
 - Java
-- HTML CSS SASS SCSS LESS
-- JavaScript
-- TypeScript
-- CoffeeScript
+- HTML
+- CSS, and other many alternative languages
+- JavaScript, and other many alternative languages
 - Haskell
 - Bash
 - Zsh
@@ -40,6 +39,7 @@
 - terminal
 - tmux
 - vim
+- emacs
 - IntelliJ
 - scalaz
 
@@ -49,17 +49,18 @@
 - Raspberry Pi
 - functional programming
 - CI, CD, automation
-- chatops
+- ChatOps
 - Slack
 - Talking, reading and writing English
 - socket.io
-- GRPC
 - shell
 - Apple
 - neovim
 - Travis, Circle CI
 - typelevel/cats
 - Coq
+- Agda
+- Idris
 - Kotlin on Android
 - Scala on Android
 - Haskell on Android
