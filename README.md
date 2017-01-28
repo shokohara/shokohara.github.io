@@ -42,6 +42,7 @@
 - emacs
 - IntelliJ
 - scalaz
+- hamlet
 
 ## What's your favorite things?
 - HHKB
