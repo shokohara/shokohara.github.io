@@ -71,11 +71,6 @@
   - [https://github.com/shokohara/NullStaticVar](https://github.com/shokohara/NullStaticVar)
 - Haskell on Android
 
-## Here are some my public repos
-- [https://github.com/shokohara/dotfiles](https://github.com/shokohara/dotfiles)
-- [https://github.com/shokohara/pagination-google-scala](https://github.com/shokohara/pagination-google-scala)
-- [https://github.com/shokohara/lambda-twilio](https://github.com/shokohara/lambda-twilio)
-
 ## My public doc
 - [(Gist)職務経歴書.md](https://gist.github.com/shokohara/2708a4043a1e7362e3e78a3efafc1f04#file-md)
 - [(Gist)自己紹介.md](https://gist.github.com/shokohara/126f78495efd857afddda5de3b7e0c02#file-md)
