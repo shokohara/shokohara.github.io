@@ -42,6 +42,8 @@
 - emacs
 - IntelliJ
 - scalaz
+- cats
+- shapeless
 - hamlet
 
 ## What's your favorite things?
@@ -52,6 +54,7 @@
 - CI, CD, automation
 - ChatOps
 - Slack
+- Vuls
 - Talking, reading and writing English
 - socket.io
 - shell
