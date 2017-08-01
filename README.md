@@ -60,6 +60,7 @@
 - Travis, Circle CI
 - typelevel/cats
 - Coq
+  - [https://github.com/shokohara/coq-sandbox](https://github.com/shokohara/coq-sandbox)
 - Agda
 - Idris
 - Kotlin on Android
