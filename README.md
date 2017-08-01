@@ -78,25 +78,25 @@
   - [https://github.com/shokohara/public-docs/blob/master/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8.md](https://github.com/shokohara/public-docs/blob/master/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8.md)
 
 ## 勉強会開催履歴
-- https://playframeworkja.doorkeeper.jp/events/2471
-- https://playframeworkja.doorkeeper.jp/events/2566
-- https://playframeworkja.doorkeeper.jp/events/2704
-- https://playframeworkja.doorkeeper.jp/events/2818
-- https://playframeworkja.doorkeeper.jp/events/2874
-- https://playframeworkja.doorkeeper.jp/events/2967
-- https://playframeworkja.doorkeeper.jp/events/3050
-- https://playframeworkja.doorkeeper.jp/events/3331
-- https://playframeworkja.doorkeeper.jp/events/3380
-- https://playframeworkja.doorkeeper.jp/events/3414
-- https://playframeworkja.doorkeeper.jp/events/3654
-- https://playframeworkja.doorkeeper.jp/events/4219
-- https://playframeworkja.doorkeeper.jp/events/4499
-- https://playframeworkja.doorkeeper.jp/events/4669
-- https://playframeworkja.doorkeeper.jp/events/5262
-- https://playframeworkja.doorkeeper.jp/events/7515
-- https://playframeworkja.doorkeeper.jp/events/8794
-- https://playframeworkja.doorkeeper.jp/events/9124
-- https://playframeworkja.doorkeeper.jp/events/9675
-- https://playframeworkja.doorkeeper.jp/events/9921
-- https://playframeworkja.doorkeeper.jp/events/11939
-- https://playframeworkja.doorkeeper.jp/events/21418
+- [https://playframeworkja.doorkeeper.jp/events/2471]([Play部屋] Play 2.0 Javaはじめて＆もくもく会)
+- [https://playframeworkja.doorkeeper.jp/events/2566]([Play部屋] 第2回 Play 2.0 はじめて＆もくもく会)
+- [https://playframeworkja.doorkeeper.jp/events/2704]([Play部屋] 第3回 Play 2.0 はじめて＆もくもく会)
+- [https://playframeworkja.doorkeeper.jp/events/2818]([Play部屋] 第5回 Play 2.1 はじめて＆もくもく会)
+- [https://playframeworkja.doorkeeper.jp/events/2874]([Play部屋] 第6回 Play 2.1 はじめて＆もくもく会)
+- [https://playframeworkja.doorkeeper.jp/events/2967]([Play部屋] 第7回 Play 2.1 はじめて＆もくもく会)
+- [https://playframeworkja.doorkeeper.jp/events/3050]([Play部屋] 第8回 Play 2.1 はじめて＆もくもく会)
+- [https://playframeworkja.doorkeeper.jp/events/3331]([Play部屋] 第9回 Play 2.1 はじめて＆もくもく会)
+- [https://playframeworkja.doorkeeper.jp/events/3380]([Play部屋] 第10回 Play 2.1 はじめて＆もくもく会)
+- [https://playframeworkja.doorkeeper.jp/events/3414]([Play部屋] 第11回 Play 2.1 はじめて＆もくもく会)
+- [https://playframeworkja.doorkeeper.jp/events/3654]([Play部屋] 第12回 Play 2.1.1 はじめて＆もくもく会)
+- [https://playframeworkja.doorkeeper.jp/events/4219]([Play部屋] 第13回 Play 2.1.1 はじめて＆もくもく会)
+- [https://playframeworkja.doorkeeper.jp/events/4499]([Play部屋] 第14回 Play 2.1.1 はじめて＆もくもく会)
+- [https://playframeworkja.doorkeeper.jp/events/4669]([Play部屋] 第15回 Play 2.1.2 RC-1 はじめて＆もくもく会)
+- [https://playframeworkja.doorkeeper.jp/events/5262]([Play部屋] 第16回 Play 2.1.3 はじめて＆もくもく会)
+- [https://playframeworkja.doorkeeper.jp/events/7515]([Play部屋] 第17回 Play 2.2.1 もくもく会＆アドベントカレンダー会)
+- [https://playframeworkja.doorkeeper.jp/events/8794]([Play部屋] 第18回 Play 2.2.1 もくもく会)
+- [https://playframeworkja.doorkeeper.jp/events/9124]([Play部屋] 第19回 Play 2.2.1 もくもく会)
+- [https://playframeworkja.doorkeeper.jp/events/9675]([Play部屋] 第20回 Play 2.2.2 もくもく会)
+- [https://playframeworkja.doorkeeper.jp/events/9921]([Play部屋] 第21回 Play 2.2.2 もくもく会)
+- [https://playframeworkja.doorkeeper.jp/events/11939]([Play部屋] 第22回 Play 2.3 もくもく会)
+- [https://playframeworkja.doorkeeper.jp/events/21418]([Play部屋] 第23回 Play 2.3.8 もくもく会)
