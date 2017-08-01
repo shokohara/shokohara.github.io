@@ -68,11 +68,35 @@
   - [https://github.com/shokohara/NullStaticVar](https://github.com/shokohara/NullStaticVar)
 - Haskell on Android
 
-### Here is some my public repos
+## Here are some my public repos
 - [https://github.com/shokohara/dotfiles](https://github.com/shokohara/dotfiles)
 - [https://github.com/shokohara/pagination-google-scala](https://github.com/shokohara/pagination-google-scala)
 - [https://github.com/shokohara/lambda-twilio](https://github.com/shokohara/lambda-twilio)
 
-## My public docs
+## My public doc
 - 職務経歴書
   - [https://github.com/shokohara/public-docs/blob/master/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8.md](https://github.com/shokohara/public-docs/blob/master/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8.md)
+
+## 勉強会開催履歴
+- https://playframeworkja.doorkeeper.jp/events/2471
+- https://playframeworkja.doorkeeper.jp/events/2566
+- https://playframeworkja.doorkeeper.jp/events/2704
+- https://playframeworkja.doorkeeper.jp/events/2818
+- https://playframeworkja.doorkeeper.jp/events/2874
+- https://playframeworkja.doorkeeper.jp/events/2967
+- https://playframeworkja.doorkeeper.jp/events/3050
+- https://playframeworkja.doorkeeper.jp/events/3331
+- https://playframeworkja.doorkeeper.jp/events/3380
+- https://playframeworkja.doorkeeper.jp/events/3414
+- https://playframeworkja.doorkeeper.jp/events/3654
+- https://playframeworkja.doorkeeper.jp/events/4219
+- https://playframeworkja.doorkeeper.jp/events/4499
+- https://playframeworkja.doorkeeper.jp/events/4669
+- https://playframeworkja.doorkeeper.jp/events/5262
+- https://playframeworkja.doorkeeper.jp/events/7515
+- https://playframeworkja.doorkeeper.jp/events/8794
+- https://playframeworkja.doorkeeper.jp/events/9124
+- https://playframeworkja.doorkeeper.jp/events/9675
+- https://playframeworkja.doorkeeper.jp/events/9921
+- https://playframeworkja.doorkeeper.jp/events/11939
+- https://playframeworkja.doorkeeper.jp/events/21418
