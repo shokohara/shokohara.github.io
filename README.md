@@ -74,8 +74,7 @@
 - [https://github.com/shokohara/lambda-twilio](https://github.com/shokohara/lambda-twilio)
 
 ## My public doc
-- 職務経歴書
-  - [https://github.com/shokohara/public-docs/blob/master/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8.md](https://github.com/shokohara/public-docs/blob/master/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8.md)
+- [https://github.com/shokohara/public-docs/blob/master/職務経歴書.md](https://github.com/shokohara/public-docs/blob/master/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8.md)
 
 ## 勉強会開催履歴
 - [Play 2.0 Javaはじめて＆もくもく会](https://playframeworkja.doorkeeper.jp/events/2471)
