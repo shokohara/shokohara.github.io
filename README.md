@@ -78,6 +78,7 @@
 
 ## My public doc
 - [(Gist)職務経歴書.md](https://gist.github.com/shokohara/2708a4043a1e7362e3e78a3efafc1f04#file-md)
+- [(Gist)自己紹介.md](https://gist.github.com/shokohara/126f78495efd857afddda5de3b7e0c02#file-md)
 
 ## 勉強会開催履歴
 - [Play 2.0 Javaはじめて＆もくもく会](https://playframeworkja.doorkeeper.jp/events/2471)
